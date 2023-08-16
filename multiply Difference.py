@@ -77,4 +77,4 @@ def show_the_difference():
 
 
 show_the_difference()
-NormalMultiplication('odd', 'add')
+
